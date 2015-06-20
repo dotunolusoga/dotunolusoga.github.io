@@ -46,7 +46,7 @@ html {
 .footer_text p {
   font-family: 'Lato', sans-serif;
   margin-bottom: 5px;
-  padding: 5px 80px;
+  padding: 2px 80px;
   text-align: center;
   line-height: 1em;
   font-size: 15px;
@@ -382,7 +382,7 @@ body {
       width: 102.3576515979%;
       height: 100%; }
       body .container .contactSection:last-child {
-        width: 100%; }
+         }
       body .container .contactSection .contactHeader {
         border: 1px solid lightgray;
         height: 25%;
