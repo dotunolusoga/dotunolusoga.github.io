@@ -242,7 +242,7 @@ body {
           padding: 5px 80px;
           text-align: left;
           line-height: 1.5em;
-          font-size: 20px;
+          font-size: 1em;
           margin-top: 40px;
           word-spacing: 3px; }
           body .container .aboutSection .aboutBody p a {
@@ -254,12 +254,11 @@ body {
       display: block;
       width: 102.3576515979%;
       height: 100%;
-      margin-bottom: 10px;}
+      margin-bottom: 50px;}
       body .container .technologies:last-child {
         width: 100%; }
       body .container .technologies ul {
-        text-align: center;
-        margin-left: 58px; }
+        text-align: center; }
         body .container .technologies ul li:hover {
           background-color: #333;
           opacity: 0.8; }
