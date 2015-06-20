@@ -60,20 +60,18 @@ html {
 body {
   background-color: light-gray;
   margin: 0;
-  padding: 0 1em; }
+  padding: 0 1em;
+  margin-left: 10%;  }
+
   body .container {
     max-width: 68em;
     margin-left: auto;
     margin-right: auto;
     float: left;
     display: block;
-    margin-right: 2.3576515979%;
-    width: 100%;
     width: 100%;
     height: 100%;
-    margin: 0;
     font-family: 'Roboto Mono', sans-serif;
-    position: absolute;
     left: 0;
     right: 0;
     margin-left: auto;
@@ -243,7 +241,7 @@ body {
           padding: 5px 80px;
           text-align: left;
           line-height: 1.5em;
-          font-size: 22px;
+          font-size: 20px;
           margin-top: 40px;
           word-spacing: 3px; }
           body .container .aboutSection .aboutBody p a {
@@ -344,7 +342,7 @@ body {
             body .container .projectSection .projectBody .village .village_image:last-child {
               margin-right: 0; }
             body .container .projectSection .projectBody .village .village_image img {
-              width: 450px; }
+              width: 400px; }
           body .container .projectSection .projectBody .village .village_desc {
             float: left;
             display: block;
@@ -369,7 +367,7 @@ body {
             body .container .projectSection .projectBody .xhatter .xhatter_image:last-child {
               margin-right: 0; }
             body .container .projectSection .projectBody .xhatter .xhatter_image img {
-              width: 450px; }
+              width: 400px; }
           body .container .projectSection .projectBody .xhatter .xhatter_desc {
             float: left;
             display: block;
