@@ -20,8 +20,13 @@ section {
 
 h1 {
   color: #232322;
-  font: 500 22px/32px 'Alegreya Sans SC', sans-serif, Arial, "Lucida Grande", sans-serif;
+  font: 500 22px/32px 'Alegreya Sans SC', Arial, "Lucida Grande", sans-serif;
 }
+
+h1:hover {
+  color: #00BCD4;
+}
+
 h2 {
   color: #7c7870;
   font: 300 19px/25px Lato, Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -35,12 +40,12 @@ hr {
 }
 p {
   color: #acacac;
-  font: 300 17px/27px "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font: 300 15px/25px "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   margin: 0 0 10px 10px;
   text-align: left;
 }
 a {
-  color: #3879d9;
+  color: #00BCD4;
   text-decoration: none;
 }
 a:hover {
