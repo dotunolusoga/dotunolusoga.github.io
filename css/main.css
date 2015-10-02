@@ -29,7 +29,7 @@ h1:hover {
 
 h2 {
   color: #7c7870;
-  font: 300 19px/25px Lato, Helvetica, Arial, "Lucida Grande", sans-serif;
+  font: 300 19px/25px Lato, Arial, "Lucida Grande", sans-serif;
 }
 hr {
   background: #e4e2de;
@@ -49,5 +49,9 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #175DAF;
+  color: #FFA000;
+  font-weight: 400;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
 }
